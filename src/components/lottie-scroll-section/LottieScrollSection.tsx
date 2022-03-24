@@ -87,7 +87,7 @@ const LottieScrollSection: React.FC<LottieScrollSectionProps> = ({
         style={{
           width: "100%",
           ...animationStyle,
-          height: "100vh",
+          height,
           position: "sticky",
           top: "0",
           border: debugMode ? "1px solid blue" : undefined,
