@@ -9,9 +9,9 @@
   "author": "willyamdev",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/willyamdev/react-lottie-tools"
+    "url": "git+https://github.com/minzarddillah/react-lottie-tools"
   },
-  "homepage": "https://github.com/willyamdev/react-lottie-tools#react-lottie-tools",
+  "homepage": "https://github.com/minzarddillah/react-lottie-tools#react-lottie-tools",
   "devDependencies": {
     "@babel/core": "^7.15.0",
     "@rollup/plugin-commonjs": "^20.0.0",
