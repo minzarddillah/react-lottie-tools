@@ -76,7 +76,7 @@ const LottieScrollAnimation: React.FC<LottieScrollAnimationProps> = ({
       <div
         style={{
           width: "100%",
-          height: "100vh",
+          height,
           top: "0",
           position: "sticky",
           display: "flex",
